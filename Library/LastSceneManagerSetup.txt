@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/HW03-2176079-KYR/HW03.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
